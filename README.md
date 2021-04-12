@@ -1,4 +1,4 @@
 # hello-world
-Test repository
+Test example
 
 Here are my edits to complete the readme file.
